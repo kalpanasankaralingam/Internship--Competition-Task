@@ -63,5 +63,5 @@ This project was completed as part of the **BI Developer/Data Analyst Competitio
 
 ---
 
-🔗 **GitHub Repository Link**: [https://github.com/your-username/property-analysis]
+🔗 **GitHub Repository Link**: [https://github.com/kalpanasankaralingam/Internship--Competition-Task-1]
 
