@@ -38,9 +38,9 @@ This repository contains solutions for the **BI Developer/Data Analyst Competiti
 4. Load **Power BI** and **SSRS reports** for data analysis and reporting.
 
 ## 🏆 Acknowledgments
-This project was completed as part of the **BI Developer/Data Analyst Competition Sprint**, focusing on real-world BI solutions and best practices.
+This project was completely focusing on real-world BI solutions and best practices.
 
 ---
 
-🔗 **GitHub Repository Link**: [https://github.com/your-username/property-analysis]
+🔗 **GitHub Repository Link**: [https://github.com/kalpanasankaralingam/Internship--Competition-Task-1]
 
