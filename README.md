@@ -22,20 +22,11 @@ This repository contains solutions for the **BI Developer/Data Analyst Competiti
 - **Kimball's Dimensional Modeling** for data structuring.
 
 ## 📸 Included Screenshots
-- **SSIS Package (Control Flow & Data Flow)**
+- **SSIS Package**
 - **Star Schema Flowchart & Bus Matrix**
 - **Loaded Data in SSMS Data Warehouse**
 - **Power BI Dashboards**
 - **SSRS Reports (Paginated & Drill-through Reports)**
-
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/property-analysis
-   ```
-2. Open the SQL scripts and execute them in **SQL Server**.
-3. Import the **SSIS package** into Visual Studio and run the ETL process.
-4. Load **Power BI** and **SSRS reports** for data analysis and reporting.
 
 ## 🏆 Acknowledgments
 This project was completely focusing on real-world end to end BI solutions and best practices.
