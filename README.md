@@ -47,7 +47,7 @@ The **Property Analysis Competition Sprint** follows industry best practices in 
 ## 📸 Screenshots
 This repository includes:
 - **SSIS Package Screenshots** (Control Flow & Data Flow)
-- **Star Schema Flowchart**
+- **Star Schema Data Model**
 - **Bus Matrix**
 - **Power BI Visualizations**
 
