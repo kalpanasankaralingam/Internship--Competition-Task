@@ -49,7 +49,6 @@ This repository includes:
 - **SSIS Package Screenshots** (Control Flow & Data Flow)
 - **Star Schema Flowchart**
 - **Bus Matrix**
-- **Loaded Data In SSMS Data Warehouse**
 - **Power BI Visualizations**
 
 ## 📝 SQL & SSIS Best Practices Followed
