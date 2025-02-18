@@ -21,7 +21,7 @@ This repository contains solutions for the **BI Developer/Data Analyst Competiti
 - **Power BI** for interactive data visualization.
 - **Kimball's Dimensional Modeling** for data structuring.
 
-## 📸 Included Screenshots
+## 📸 Included Screenshots and Reports
 - **SSIS Package**
 - **Star Schema Flowchart & Bus Matrix**
 - **Loaded Data in SSMS Data Warehouse**
